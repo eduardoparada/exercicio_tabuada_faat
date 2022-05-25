@@ -1,0 +1,16 @@
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.AssemblyReference.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.SuggestedBindingRedirects.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.CoreCompileInputs.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.exe.config
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.pdb
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Fundamentos e Técnicas de Programação\Exercicio Extra\Exercicios Extras\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.pdb
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.exe.config
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\bin\Debug\exercicio_tabuada_git.pdb
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.AssemblyReference.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.SuggestedBindingRedirects.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.csproj.CoreCompileInputs.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\exercicio_tabuada_git\exercicio_tabuada_git\obj\Debug\exercicio_tabuada_git.pdb
